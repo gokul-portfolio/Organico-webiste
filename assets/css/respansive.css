@@ -1,0 +1,643 @@
+    @media screen and (max-width:1440px) {
+        .orange-img {
+            left: 26%;
+            top: 35px;
+        }
+
+        .orange-img img {
+            width: 500px;
+        }
+
+    }
+
+    @media screen and (max-width:1024px) {
+        .orange-bg {
+            top: 30px;
+            left: 13%;
+        }
+
+        .orange-img {
+            left: 10%;
+            top: 59px;
+        }
+
+        .orange-img img {
+            width: 500px;
+        }
+
+        .hero-right h1 {
+            font-size: 64px;
+        }
+
+        .hero-right {
+            padding: 30px 0px 70px 0px;
+        }
+
+        .veg-section,
+        .fruit-section {
+            width: 450px;
+        }
+
+        .about-right h1 {
+            font-size: 38px;
+        }
+
+        p {
+            font-size: 16px;
+            font-weight: 600;
+            font-family: var(--para-font-family);
+            color: var(--secondarycolor);
+        }
+
+        .child-para {
+            left: 4%;
+        }
+
+        .test-card .test-green {
+            margin: 20px 24px 0px 24px;
+        }
+
+        .test-green-head {
+            margin: 20px 18px;
+        }
+
+        .test-card .green-img {
+            padding-left: 28px;
+        }
+        .ins{
+            display: none;
+        }
+        .service-overlay h4{
+            font-size: 16px;
+        }
+        .inner-service {
+            padding: 100px 70px 100px 70px;
+        }
+
+
+    }
+
+    @media screen and (max-width:991px) {
+        .orange-bg img {
+            width: 300px;
+        }
+
+        .leaf-4 {
+            position: absolute;
+            top: 0%;
+            left: 27%;
+        }
+
+        .leaf-3 {
+            position: absolute;
+            left: 2%;
+            bottom: -93px;
+        }
+
+        .hero-right {
+            padding: 54px 0px 70px 52px;
+        }
+
+        .veg-section,
+        .fruit-section {
+            width: 525px;
+        }
+
+        .inner-offer {
+            padding: 100px 0px 100px 90px;
+        }
+
+        .fruit-section {
+            margin-top: 20px;
+        }
+
+        .count-img {
+            padding-left: 40px;
+        }
+
+        .counter-title h4 {
+            font-size: 18px;
+        }
+        .inner-service {
+            padding: 101px 91px 100px 91px;
+        }
+    }
+
+    @media screen and (max-width:767px) {
+        .navbar-brand img {
+            width: 120px;
+        }
+
+        .orange-bg {
+            display: none;
+        }
+
+        .orange-img img {
+            width: 350px;
+        }
+
+        .orange-img {
+            left: 45%;
+            top: 43px;
+        }
+
+        .hero-right {
+            padding: 10px 0px 30px 52px;
+        }
+
+        .orange-img img {
+            width: 399px;
+        }
+
+        .leaf-2 {
+            position: absolute;
+            right: 5%;
+            top: -1px;
+        }
+
+        .inner-offer {
+            padding: 101px 0px 100px 0px;
+        }
+
+        .about-left {
+            padding-top: 0px;
+        }
+
+        .inner-offer {
+            padding: 101px 0px 45px 0px;
+        }
+
+        .about-right {
+            padding-top: 0px;
+        }
+
+        .owl-carousel .owl-stage-outer {
+            padding-left: 130px;
+        }
+
+        .why-h1 {
+            margin-left: 186px;
+        }
+
+        .count-img {
+            padding-left: 94px;
+        }
+
+        .test-card .green-img {
+            padding-left: 134px;
+        }
+
+        .left-leaf {
+            position: absolute;
+            top: 0%;
+            left: -10%;
+        }
+
+        .team-head h1 {
+            font-size: 36px;
+        }
+        .inner-service {
+            padding: 0px 91px 100px 168px;
+        }
+        .center-logo1 {
+            display:block;
+            width: 200px;
+          }
+          .center-logo{
+            display: none;
+          }
+          .inner-banner{
+            padding: 55px 0px;
+          }
+    }
+
+    @media screen and (max-width:768px) {
+        .inner-counter {
+
+            padding: 50px 0px 60px 0px;
+        }
+
+
+    }
+
+
+
+
+    @media screen and (max-width:575px) {
+        .hero-right h1 {
+            font-size: 48px;
+        }
+
+        .orange-img {
+            left: 44%;
+            top: 18px;
+        }
+
+        .leaf-1 {
+            display: none;
+        }
+
+        .leaf-4 {
+            position: absolute;
+            top: 0%;
+            left: 43%;
+        }
+
+        .leaf-2 {
+            bottom: 0%;
+        }
+
+        .veg-section,
+        .fruit-section {
+            width: 435px;
+        }
+
+        .inner-offer {
+            padding: 101px 0px 100px 40px;
+        }
+
+        .about-card-inner img {
+            display: flex;
+            justify-content: center;
+        }
+
+        .about-card-inner {
+            /* padding:0px 0px 0px 100px ; */
+            text-align: center;
+        }
+
+        .about-icon {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .count-img {
+            padding-left: 244px;
+        }
+
+        .count-inner {
+            border-right: none;
+        }
+        .ins {
+            margin: 20px;
+        }
+        .inner-service {
+            padding: 0px 91px 100px 91px;
+        }
+        .Service-head h1{
+            font-size: 54px;
+        }
+        .product-title {
+            font-size: 22px;
+          }
+    
+          .product-main-img {
+            max-height: 300px;
+          }
+    
+          .product-thumbnail {
+            width: 60px;
+            height: 60px;
+          }
+    
+          .quantity-selector input {
+            width: 40px;
+          }
+
+    }
+
+    @media screen and (max-width:425px) {
+
+        .orange-img {
+            left: 44%;
+            top: 147px;
+        }
+
+        .hero-right {
+            padding: 9px 0px 25px 13px;
+        }
+
+        .hero-inner {
+            width: 100%;
+            background-color: #F3F3F3;
+            padding: 13px 0px 45px 0px;
+            position: relative;
+        }
+
+        .leaf-4 {
+            display: none;
+        }
+
+        .slider {
+            display: none;
+        }
+
+        .inner-offer {
+            padding: 30px 0px 30px 0px;
+        }
+
+        .veg-section {
+            padding: 14px;
+        }
+
+        .veg-section,
+        .fruit-section {
+            width: 390px;
+        }
+
+        .veg-bg-2 img {
+            width: 60%;
+        }
+
+        .veg-bg-2 {
+            position: absolute;
+            top: 44%;
+            left: 50%;
+            /* right: -7%; */
+        }
+
+        .fuirt-section {
+            padding: 14px;
+        }
+
+        .fru-bg-2 img {
+            width: 60%;
+        }
+
+        .fru-bg-2 {
+            position: absolute;
+            top: 44%;
+            left: 50%;
+            /* right: -7%; */
+        }
+
+        .veg-section .shop-btn .arrow {
+
+            margin-top: 1px;
+        }
+
+        .about-right h1 {
+            font-size: 32px;
+        }
+
+        .about-right h1 {
+            font-size: 28px;
+        }
+
+        .catagory-header h1 {
+            font-size: 32px;
+        }
+
+        .owl-carousel .owl-stage-outer {
+            padding-left: 46px;
+        }
+
+        .inner-why {
+            padding: 44px 0px 44px 0px;
+        }
+
+        .why-right h1 {
+            font-size: 35px;
+        }
+
+        .why-h1 {
+            margin-left: 138px;
+
+        }
+
+        .why-right {
+            padding: 10px 10px 10px 10px;
+        }
+
+        .count-img {
+            padding-left: 170px;
+        }
+
+        .best-left h1 {
+            font-size: 38px;
+        }
+
+        .test-card .green-img {
+            padding-left: 78px;
+        }
+        .inner-service{
+            padding: 0px 35px 100px 35px;
+        }
+        .service-overlay {
+            padding: 12px;
+        }
+        .footer .footer-logo {
+            width: 200px;
+        }
+        .testmonial-header h1::after {
+            content: '';
+            display: block;
+            margin-top: 10px;
+            margin-left: 3px;
+            width: 406px;
+            height: 20px;
+        }
+    
+        .testmonial-header h1 {
+            font-size: 46px;
+        }
+        .center-logo1 {
+            display:block;
+            width: 130px;
+          }
+    
+
+
+    }
+
+    @media screen and (max-width:375px) {
+        .orange-img {
+            left: 44%;
+            top: 197px;
+        }
+
+        .veg-section,
+        .fruit-section {
+            width: 310px;
+        }
+
+        .veg-section p {
+            font-size: 15px;
+        }
+
+        .veg-bg-2 img {
+            width: 50%;
+        }
+
+        .veg-bg-2 {
+            position: absolute;
+            top: 44%;
+            /* right: -17%; */
+        }
+
+        .fruit-section p {
+            font-size: 15px;
+        }
+
+        .fru-bg-2 img {
+            width: 50%;
+        }
+
+        .fru-bg-2 {
+            position: absolute;
+            top: 44%;
+            /* right: -17%; */
+        }
+
+        .inner-offer {
+            padding: 30px 0px 30px 20px;
+        }
+
+        .owl-carousel .owl-stage-outer {
+            padding-left: 21px;
+        }
+
+        .why-h1 {
+            margin-left: 110px;
+        }
+
+        .count-img {
+            padding-left: 144px;
+        }
+
+        .team-head h1 {
+            font-size: 24px;
+        }
+        .Service-head h1 {
+            font-size: 38px;
+        }
+        .testmonial-header h1::after {
+            content: '';
+            display: block;
+            margin-top: 10px;
+            margin-left: -18px;
+            width: 380px;
+            height: 22px;
+        }
+    
+        .testmonial-header h1 {
+            font-size: 48px;
+        }
+    
+        .testmonial-header h4 span {
+            color: var(--secondarycolor);
+            font-size: 16px;
+        }
+        .product-header h3 span {
+            font-size: 20px;
+        }
+    
+
+       
+
+    }
+
+    @media screen and (max-width:320px) {
+        .orange-img {
+            left: 48%;
+            top: 231px;
+        }
+
+        /* .veg-bg-2{
+            display: none;
+        } */
+        .inner-offer {
+            padding: 30px 0px 30px 0px;
+        }
+
+        .veg-section,
+        .fruit-section {
+            width: 287px;
+        }
+
+        .veg-section {
+            height: 225px;
+        }
+
+        .owl-carousel .owl-stage-outer {
+            padding-left: 1px;
+        }
+
+        .why-h1 {
+            margin-left: 83px;
+        }
+
+        .why-right h1 {
+            font-size: 26px;
+        }
+
+        .count-img {
+            padding-left: 116px;
+        }
+
+        .test-card .green-img {
+            padding-left: 54px;
+        }
+
+        .test-card .team-img {
+            width: 174px;
+        }
+        .testmonial-header h1::after {
+            margin-top: 10px;
+            margin-left: -11px;
+            width: 319px;
+            height: 16px;
+        }
+    
+        .testmonial-header h1 {
+            font-size: 42px;
+        }
+    
+        .testmonial-header h4 span {
+            color: var(--secondarycolor);
+            font-size: 15px;
+        }
+        .product-title {
+            font-size: 18px;
+          }
+    
+          .product-main-img {
+            max-height: 250px;
+          }
+    
+          .product-thumbnail {
+            width: 50px;
+            height: 50px;
+          }
+    
+          .quantity-selector input {
+            width: 35px;
+          }
+    
+          .btn {
+            font-size: 12px;
+          }
+          .center-logo1 {
+            display:block;
+            width: 140px;
+          }
+
+
+
+    }
+
+
+
+    @media screen and (min-width:426px) and (max-width:526px) {
+        .inner-offer {
+            padding: 40px 0px 38px 0px;
+        }
+
+        .slider {
+            display: none;
+        }
+
+
+    }
